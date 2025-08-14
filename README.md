@@ -69,8 +69,3 @@ This project predicts whether a loan will be approved for an applicant based on 
 - Visualizations provide insights into patterns between applicant attributes and loan outcomes.  
 - Demonstrates ability to handle **real-world financial datasets**, preprocess data, and deploy predictive models.
 
----
-
-## Project Purpose
-- Showcase **practical data science skills** for hiring managers.  
-- Provides an end-to-end workflow from **raw data to predictive modeling**.  
