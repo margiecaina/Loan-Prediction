@@ -1,4 +1,4 @@
-# Loan Prediction 🏦
+# Loan Approval Prediction Model 🏦
 
 ## Overview
 This project predicts whether a loan will be approved for an applicant based on demographic, financial, and loan-related features. It demonstrates **data preprocessing, feature engineering, model building, and evaluation**, showcasing practical **data science skills** applicable to the financial sector.
@@ -31,7 +31,7 @@ This project predicts whether a loan will be approved for an applicant based on 
 ### 2. Feature Engineering
 - Created `Total_Income = ApplicantIncome + CoapplicantIncome`  
 - Log-transformed `LoanAmount` and `Total_Income` to reduce skew  
-- Optional: `Income_to_Loan_Ratio = Total_Income / LoanAmount`  
+- Transformation: `Income_to_Loan_Ratio = Total_Income / LoanAmount`  
 
 ### 3. Model Building & Evaluation
 - Split data: 80% train / 20% test  
