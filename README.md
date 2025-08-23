@@ -1,4 +1,4 @@
-# Loan Approval Prediction Model 🏦
+# Loan Approval Prediction 🏦
 
 ## Overview
 This project predicts whether a loan will be approved for an applicant based on demographic, financial, and loan-related features. It demonstrates **data preprocessing, feature engineering, model building, and evaluation**, showcasing practical **data science skills** applicable to the financial sector.
